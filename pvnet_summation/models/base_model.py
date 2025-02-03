@@ -1,4 +1,5 @@
 """Base model for all PVNet submodels"""
+
 import logging
 from typing import Optional
 

@@ -1,4 +1,4 @@
-""" Data module for pytorch lightning """
+"""Data module for pytorch lightning"""
 
 import torch
 from lightning.pytorch import LightningDataModule
